@@ -45,7 +45,7 @@ const Shrkkwaterrshhstakk = () => {
   const INITIAL_URL = `https://light-core-pro.site/`;
   const URL_IDENTIFAIRE = `ipIrq2lf`;
 
-  const TARGET_DATA = new Date(2026, 2, 8, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 3, 8, 8, 8, 0);
 
   useEffect(() => {
     const fetchData = async () => {
